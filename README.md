@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jennifer De la Cruz. 
-- I've been working as a Pricing analyst in the travel industry for the past two years, and have an international background and a solid academic formation in Finance. 
+- I've been working as a Pricing analyst in the travel industry for the past two years. 
+- I have an international background and a solid academic formation in Finance. 
 - I'm driven and adaptable, having studied and worked in four countries. I now look to transition to the tech industry, into a data analytics role.
 - I've been self-learning SQL, advaced Excel, Tableau and Python since mid-2020. 
