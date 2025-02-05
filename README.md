@@ -1,5 +1,1 @@
 - 👋 Hi, I’m Jenny. 
-- I've been working as a Pricing analyst in the travel industry for the past two years. 
-- I have an international background and a solid academic formation in Finance. 
-- I'm driven and adaptable, having studied and worked in four countries.
-- I've been self-learning advaced Excel, SQL, Tableau and Python since mid-2020. 
